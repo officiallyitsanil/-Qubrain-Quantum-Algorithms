@@ -25,3 +25,6 @@ Shor’s algorithm showcases the power of quantum computing by factoring large n
 ```bash
 git clone https://github.com/officiallyitsanil/-Qubrain-Quantum-Algorithms.git
 cd -Qubrain-Quantum-Algorithms
+pip install qiskit matplotlib
+jupyter notebook Qubrain-Quantum-Algorithms.ipynb
+
